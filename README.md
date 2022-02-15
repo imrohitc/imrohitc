@@ -1,16 +1,7 @@
 ## Hey there, I'm Rohit 👋
 
-- Student at Sandip Institute of Technology & Research Centre
-  <br><br>
-
-**How to reach me:**
-
-<a href="https://www.linkedin.com/in/imrohitc/">
-  <img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a> &nbsp;
-<a href="mailto:rjc0160@gmail.com">
-  <img width="30px" src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
-</a>
+- 👨‍🎓 Student at Sandip Institute of Technology & Research Centre
+- 📫 You can reach me on: <a href="mailto:rjc0160@gmail.com">rjc0160@gmail.com</a>
 <br><br>
 
 **Languages and Tools:**
